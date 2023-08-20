@@ -61,7 +61,6 @@ html,body{
     align-items: center; 
     justify-content: center; 
     height: 65vh; 
-    font-weight: bold;
     flex-wrap: wrap;
     gap: 10px;
     padding: 20px;
